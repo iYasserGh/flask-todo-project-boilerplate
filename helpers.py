@@ -20,9 +20,7 @@ def write_db_file(data):
 
 def get_next_id():
     todos = read_db_file()
-    if len(todos) < 1:
-        return 1
-    return max(todo['id'] for todo in todos) + 1
+    return len(todos) + 1
 
 def clean_gemini_response(content):
     content = content.strip()
