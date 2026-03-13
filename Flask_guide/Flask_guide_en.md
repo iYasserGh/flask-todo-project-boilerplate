@@ -1,6 +1,4 @@
 <div align="center" style="font-size: 24px; font-weight: bold;">What’s Next After the FullStack Web Development Bootcamp?</div>
-<div align="center">March 13, 2026 - 24 Ramadan 1446 AH</div>
-<br>
 
 > [!NOTE]
 > للنسخة العربية، اضغط [هنا](/Flask_guide/Flask_guide_ar.md)
@@ -43,8 +41,10 @@ As mentioned, there are other libraries that might be better depending on your p
 
 <div align="center">
 <h4>Good luck to everyone!</h4>
+<hr />
 Yasser Alghamdi
 
 <a href="https://x.com/iYasserGh" target="_blank">X (Twitter)</a> | <a href="https://www.linkedin.com/in/yasser-al-ghamdi-b211272a7" target="_blank">LinkedIn</a>
-
 </div>
+
+<div align="center">March 13, 2026 - 24 Ramadan 1446 AH</div>

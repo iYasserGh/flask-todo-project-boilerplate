@@ -1,6 +1,4 @@
-<div align="center" style="font-size: 24px; font-weight: bold;">ماذا بعد معسكر تطوير الويب المتكامل؟</div>
-<div align="center">٢٤ رمضان ١٤٤٦هـ - ١٣ مارس ٢٠٢٦م</div>
-<br>
+<h1 align="center">ماذا بعد معسكر تطوير الويب المتكامل؟</h1>
 
 > [!NOTE]
 > For english version, click [here](/Flask_guide/Flask_guide_en.md)
@@ -54,8 +52,11 @@
 
 <div align="center">
 <h4>بالتوفيق للجميع!</h4>
+<hr />
 ياسر الغامدي
 
 <a href="https://x.com/iYasserGh" target="_blank">اكس (تويتر)</a> | <a href="https://www.linkedin.com/in/yasser-al-ghamdi-b211272a7" target="_blank">لنكدان</a>
 
 </div>
+<div align="center">٢٤ رمضان ١٤٤٦هـ - ١٣ مارس ٢٠٢٦م</div>
+<br>
