@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px; font-weight: bold;">What’s Next After the FullStack Web Development Bootcamp?</div>
+<h1 align="center" style="font-size: 24px; font-weight: bold;">What’s Next After the FullStack Web Development Bootcamp?</h1>
 
 > [!NOTE]
 > للنسخة العربية، اضغط [هنا](/Flask_guide/Flask_guide_ar.md)
