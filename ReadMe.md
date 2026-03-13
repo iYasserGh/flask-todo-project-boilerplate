@@ -1,3 +1,8 @@
+> [!NOTE]
+> If you are looking for the answer to "What's Next After the FullStack Web Development Bootcamp?" [click here](/Flask_guide/Flask_guide_en.md).
+>
+> اذا كنت تبحث عن إجابة "ماذا بعد معسكر تطوير الويب المتكامل؟" [اضغط هنا](/Flask_guide/Flask_guide_ar.md).
+
 # Todo List App Backend Boilerplate
 
 Simple Flask backend boilerplate for the backend part of a fullstack development bootcamp project.
