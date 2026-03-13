@@ -91,6 +91,18 @@ def update_todo(todo_id, update_data):
     if "description" in update_data:
         task['description'] = update_data['description']
     
+    # -- add missing fields --
+    if "date" in update_data:
+        task['date'] = update_data['date']
+    if "variant" in update_data:
+        task['variant'] = update_data['variant']
+    if "volunteersNeeded" in update_data:
+        task['volunteersNeeded'] = update_data['volunteersNeeded']
+    if "priority" in update_data:
+        task['priority'] = update_data['priority']
+    if "completed" in update_data:
+        task['completed'] = update_data['completed']
+    
     tasks.append(task)
     helpers.write_db_file(tasks)
 
